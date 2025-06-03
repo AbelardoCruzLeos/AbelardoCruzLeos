@@ -20,10 +20,10 @@
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umblum12&layout=donut-vertical&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelardoCruzLeos&layout=donut-vertical&theme=radical" alt="Top Languages"/>
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=umblum12&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbelardoCruzLeos&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </div>
 
 ---
